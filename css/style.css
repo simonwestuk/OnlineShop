@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+.custom-font {
+    font-family: 'Caveat Brush', cursive !important;
+}
+
+.navbar-brand, .nav-item {
+    font-size: 2em;
+}
+
+.carousel-item {
+    height: 50vh;
+}
+
+.mainTitle {
+    color: white;
+    position: absolute;
+    top: 25%;
+    z-index: 999;
+    font-size: 5em;
+    width: 100vw;
+    text-align: center;
+}
